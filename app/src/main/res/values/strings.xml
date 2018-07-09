@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDVend</string>
+
+    <string name="tab_frag_pull_request">Pull Requests</string>
+    <string name="tab_frag_issues">Issues</string>
+    <string name="open_issue">Issues abertos: %s</string>
+    <string name="repository_name">Repositório: %s</string>
+    <string name="text_empty_state">Não foi possível recuperar dados do Github</string>
+    <string name="label_repository">Informe um repositório</string>
+    <string name="example_repository">Ex: retrofit</string>
+    <string name="label_btn_search">Pesquisar</string>
+</resources>
